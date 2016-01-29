@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="file_picker_app_name">文件选择器</string>
+    <string name="empty_directory_hint">空目录</string>
+    <string name="start_path_name">/</string>
+    <string name="type_archive">压缩文件</string>
+    <string name="type_certificate">秘钥证书</string>
+    <string name="type_directory">目录</string>
+    <string name="type_document">文档</string>
+    <string name="type_drawing">图像</string>
+    <string name="type_excel">Excel文档</string>
+    <string name="type_image">图片</string>
+    <string name="type_music">音频</string>
+    <string name="type_pdf">PDF文档</string>
+    <string name="type_power_point">PPT文档</string>
+    <string name="type_word">Word文档</string>
+</resources>
